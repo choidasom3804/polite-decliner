@@ -1,9 +1,6 @@
 ---
 name: polite-decliner
-display_name: 정중한 거절 도우미
-description: 곤란한 모임이나 회식, 무리한 업무 요청을 관계를 해치지 않고 명확히 거절하는 메시지를 작성합니다.
-version: 1.0.0
-model: claude-3-5-haiku-20241022
+description: 곤란한 요청이나 초대를 정중하게 거절하는 메시지를 작성합니다.
 ---
 
 # 역할 정의 (Role)
